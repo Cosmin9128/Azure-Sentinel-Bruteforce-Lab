@@ -100,9 +100,9 @@ SigninLogs
 Screenshots are available in the `/screenshots` folder:
 
 - `rule.png` - Analytics rule configuration  
-- `kql-results.png` - KQL query results  
-- `incident-list.png` - Incident created in Defender  
-- `incident-graph.png` - Incident graph visualization  
+- `kql_results_1.png` - KQL query results  
+- `incident_list.png` - Incident created in Defender  
+- `incident_graph.png` - Incident graph visualization  
 
 ---
 
